@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b965680-192a-4580-a418-d0c465c91e54" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/naiveBayes/studentMain.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/naiveBayes/utilNB/ClassifyNB.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/naiveBayes/utilNB/class_vis.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/naiveBayes/utilNB/map_terrain_data.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/naiveBayes/gaussianNB.py" afterPath="$PROJECT_DIR$/naiveBayes/gaussianNB.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/naiveBayes/studentCode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/naiveBayes/utilNB/classify.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,12 +64,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/naiveBayes/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="classify.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/naiveBayes/utilNB/classify.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="studentCode.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/naiveBayes/studentCode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="83" lean-forward="true" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+              <folding>
+                <element signature="e#0#53#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,6 +129,8 @@
         <option value="$PROJECT_DIR$/naiveBayes/__init__.py" />
         <option value="$PROJECT_DIR$/naiveBayes/studentMain.py" />
         <option value="$PROJECT_DIR$/naiveBayes/utilNB/ClassifyNB.py" />
+        <option value="$PROJECT_DIR$/naiveBayes/utilNB/classify.py" />
+        <option value="$PROJECT_DIR$/naiveBayes/utilNB/studentCode.py" />
       </list>
     </option>
   </component>
@@ -169,6 +190,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/naiveBayes" />
       <recent name="$PROJECT_DIR$/naiveBayes/utilNB" />
     </key>
   </component>
@@ -184,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.studentMain">
+  <component name="RunManager" selected="Python.studentCode">
     <configuration name="gaussianNB" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,6 +220,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="introToML" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naiveBayes/gaussianNB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="studentCode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/naiveBayes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="introToML" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naiveBayes/studentCode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,14 +258,16 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.gaussianNB" />
       <item index="1" class="java.lang.String" itemvalue="Python.studentMain" />
+      <item index="2" class="java.lang.String" itemvalue="Python.studentCode" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.studentMain" />
-        <item index="1" class="java.lang.String" itemvalue="Python.gaussianNB" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.studentCode" />
+        <item index="1" class="java.lang.String" itemvalue="Python.studentMain" />
+        <item index="2" class="java.lang.String" itemvalue="Python.gaussianNB" />
       </list>
     </recent_temporary>
   </component>
@@ -355,6 +396,24 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/naiveBayes/utilNB/classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/naiveBayes/studentCode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="83" lean-forward="true" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
