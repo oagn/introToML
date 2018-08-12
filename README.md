@@ -1,4 +1,4 @@
-# introToML
+# introToML (Python2.7.9)
 Introduction to Machine Learning (Udacity course)
 
 # Naive Bayes
