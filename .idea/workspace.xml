@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b965680-192a-4580-a418-d0c465c91e54" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/introToML.iml" afterPath="$PROJECT_DIR$/.idea/introToML.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ud120-projects/naive_bayes/nb_author_id.py" afterPath="$PROJECT_DIR$/ud120-projects/naive_bayes/nb_author_id.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gaussianNB.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gaussianNB.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/naiveBayes/gaussianNB.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="e#48#66#0" expanded="true" />
               </folding>
@@ -25,11 +28,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="startup.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ud120-projects/tools/startup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nb_author_id.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ud120-projects/naive_bayes/nb_author_id.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="studentMain.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/naiveBayes/studentMain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="9" column="62" lean-forward="false" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+            <state relative-caret-position="162">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -45,8 +68,8 @@
       <file leaf-file-name="ClassifyNB.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/naiveBayes/utilNB/ClassifyNB.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -75,8 +98,8 @@
       <file leaf-file-name="classify.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/naiveBayes/utilNB/classify.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="19" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -85,24 +108,11 @@
       <file leaf-file-name="studentCode.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/naiveBayes/studentCode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="83" lean-forward="false" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+            <state relative-caret-position="195">
+              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
               <folding>
                 <element signature="e#0#53#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -128,10 +138,11 @@
         <option value="$PROJECT_DIR$/naiveBayes/ClassifyNB.py" />
         <option value="$PROJECT_DIR$/naiveBayes/utilNB/__init__.py" />
         <option value="$PROJECT_DIR$/naiveBayes/__init__.py" />
-        <option value="$PROJECT_DIR$/naiveBayes/studentMain.py" />
         <option value="$PROJECT_DIR$/naiveBayes/utilNB/ClassifyNB.py" />
         <option value="$PROJECT_DIR$/naiveBayes/utilNB/classify.py" />
         <option value="$PROJECT_DIR$/naiveBayes/utilNB/studentCode.py" />
+        <option value="$PROJECT_DIR$/naiveBayes/studentMain.py" />
+        <option value="$PROJECT_DIR$/ud120-projects/naive_bayes/nb_author_id.py" />
       </list>
     </option>
   </component>
@@ -177,6 +188,17 @@
             </path>
             <path>
               <item name="introToML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="introToML" type="462c0819:PsiDirectoryNode" />
+              <item name="ud120-projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="introToML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="introToML" type="462c0819:PsiDirectoryNode" />
+              <item name="ud120-projects" type="462c0819:PsiDirectoryNode" />
+              <item name="naive_bayes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="introToML" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -188,6 +210,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -207,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.gaussianNB">
+  <component name="RunManager" selected="Python.nb_author_id">
     <configuration name="gaussianNB" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,6 +244,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="introToML" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naiveBayes/gaussianNB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="nb_author_id" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ud120-projects/naive_bayes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="introToML" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ud120-projects/naive_bayes/nb_author_id.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="startup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ud120-projects/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="introToML" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ud120-projects/tools/startup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,16 +316,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.gaussianNB" />
       <item index="1" class="java.lang.String" itemvalue="Python.studentMain" />
       <item index="2" class="java.lang.String" itemvalue="Python.studentCode" />
+      <item index="3" class="java.lang.String" itemvalue="Python.startup" />
+      <item index="4" class="java.lang.String" itemvalue="Python.nb_author_id" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.gaussianNB" />
-        <item index="1" class="java.lang.String" itemvalue="Python.studentMain" />
-        <item index="2" class="java.lang.String" itemvalue="Python.studentCode" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.nb_author_id" />
+        <item index="1" class="java.lang.String" itemvalue="Python.startup" />
+        <item index="2" class="java.lang.String" itemvalue="Python.gaussianNB" />
+        <item index="3" class="java.lang.String" itemvalue="Python.studentMain" />
+        <item index="4" class="java.lang.String" itemvalue="Python.studentCode" />
       </list>
     </recent_temporary>
   </component>
@@ -428,14 +489,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/naiveBayes/utilNB/ClassifyNB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/naiveBayes/utilNB/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -452,44 +505,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/naiveBayes/utilNB/classify.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/naiveBayes/test.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/naiveBayes/gaussianNB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#48#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ud120-projects/tools/startup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/naiveBayes/utilNB/ClassifyNB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/naiveBayes/studentMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/naiveBayes/studentCode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="83" lean-forward="false" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+        <state relative-caret-position="195">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
           <folding>
             <element signature="e#0#53#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/naiveBayes/studentMain.py">
+    <entry file="file://$PROJECT_DIR$/naiveBayes/utilNB/classify.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="9" column="62" lean-forward="false" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+        <state relative-caret-position="180">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="19" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/naiveBayes/gaussianNB.py">
+    <entry file="file://$PROJECT_DIR$/ud120-projects/naive_bayes/nb_author_id.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#48#66#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="284">
+          <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
